@@ -1,4 +1,4 @@
-package profiles;
+package ru.netology.profiles;
 
 public class ProductionProfile implements SystemProfile {
     @Override
